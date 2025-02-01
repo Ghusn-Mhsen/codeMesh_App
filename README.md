@@ -39,3 +39,20 @@ This project is a containerized Node.js application designed to work in both **d
 
 ---
 
+## 🏗️ How to Build and Run the Project
+
+### Prerequisites
+
+- Docker and Docker Compose installed on your machine.
+
+### Development Environment
+
+1. **Start the development environment:**
+
+   ```bash
+   docker-compose -f docker-compose.yml -f docker-compose.dev.yml up --build
+
+2. **Start the production environment:**
+
+   ```bash
+   docker-compose -f docker-compose.yml -f docker-compose.prod.yml up --build
