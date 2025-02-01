@@ -36,6 +36,4 @@ This project is a containerized Node.js application designed to work in both **d
 | **Redis**      | In-memory cache                               | ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)                |
 | **NGINX**      | Reverse proxy and load balancer in production | ![NGINX](https://img.shields.io/badge/-NGINX-269539?logo=nginx&logoColor=white)                |
 
----
-
 
