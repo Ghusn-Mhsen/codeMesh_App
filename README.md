@@ -25,6 +25,7 @@ This project is a containerized Node.js application designed to work in both **d
 |-- docker-compose.prod.yml       # Production-specific Docker Compose
 |-- docker-compose.dev.yml        # Development-specific Docker Compose
 |-- .env                          # Environment variables loader
+```
 
 ## 🛠️ Services Overview
 
